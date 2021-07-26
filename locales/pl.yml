@@ -18,7 +18,7 @@ pl:
         title: Usuń %{model_label} '%{object_label}'
       edit:
         breadcrumb: Edytuj
-        done: Aktualizajca
+        done: Aktualizacja
         link: Edytuj ten %{model_label}
         menu: Edytuj
         title: Edytuj %{model_label} '%{object_label}'
